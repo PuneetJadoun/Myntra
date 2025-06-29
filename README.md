@@ -33,7 +33,7 @@ This project was created to practice front-end skills and better understand the 
 
 ## 🏷️ Tags
 
-myntra-clone, myntra-homepage, html, css, web-development, frontend, practice-project, beginner-project, clone
+myntra-clone, myntra-homepage, html, css, web-development, frontend, practice-project, beginner-project, clone.
 
 ## 🙌 Acknowledgements
 
